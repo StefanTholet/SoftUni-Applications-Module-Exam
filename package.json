@@ -1,0 +1,24 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "start": "lite-server indexExam.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "handlebars": "^4.7.6",
+    "jquery": "^3.5.1",
+    "lite": "^4.0.5",
+    "sammy": "^0.7.6",
+    "server": "^1.0.31"
+  }
+}
